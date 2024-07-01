@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ani Dionysian</h1>
-<h3 align="center">A beginner in coding</h3>
+<h3 align="center"> I'm a beginner programmer</h3>
 
 - 📫 How to reach me **aodionysian@gmail.com**
 
